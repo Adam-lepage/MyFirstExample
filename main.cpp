@@ -8,6 +8,7 @@ using std::cout;
 int main()
 {
     cout << "THE FIRST EXAMPLE MATH DISPLAY!\n";
+    cout << "CHANGE TO TRIGGER GITHUB ACTIONS\n";
     cout << "Hi, please enter two whole numbers: ";
 
     int x,y;
